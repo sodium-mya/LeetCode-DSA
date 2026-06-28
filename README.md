@@ -1,4 +1,15 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# 🚀 Algorithmic Problem Solving & DSA
+
+Welcome to my LeetCode repository! This space serves as a living ledger of my journey into Data Structures and Algorithms (DSA). 
+
+## 🧠 About This Repository
+I am currently at the beginning of my software engineering journey. While my background is deeply rooted in tackling multi-layered academic problems, I am now translating that logic-driven mindset into programming.
+
+My goal here is not just to collect solved problems, but to build a bulletproof algorithmic intuition. I am starting with foundational concepts and will systematically scale up the complexity as my skills grow.
+
+## 💻 Tech Stack
+* **Language:** Python 🐍
+* **Current Focus:** Foundational algorithms, logic building, and optimization.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
