@@ -26,6 +26,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 | ------- |
 | [0013-roman-to-integer](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -34,4 +35,8 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
