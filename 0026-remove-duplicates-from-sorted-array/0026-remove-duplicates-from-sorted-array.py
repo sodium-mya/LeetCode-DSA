@@ -5,14 +5,18 @@ class Solution(object):
         repeated_index=[]
 
         #sodium_mya
-        
-        for i in range(lenofnums):
-            if nums[i] not in unique:
-                unique.append(nums[i])
-            else:
-                repeated_index.append(i)
+        i=0
+        while True:
+            try:
+                if nums[i] not in unique:
+                    unique.append(nums[i])
+                    i+=1
+                else:
+                    nums.pop(i)
+            except IndexError:
+                break
             
-        for l in repeated_index:
-            removed_item=nums.pop(l-repeated_index.index(l))
+        '''for l in repeated_index:
+            nums.pop(l-repeated_index.index(l))'''
         uniqueint=len(unique)
         return uniqueint
