@@ -1,20 +1,12 @@
 class Solution(object):
     def removeDuplicates(self, nums):
-        unique=[]
-        lenofnums=len(nums)
-        repeated_index=[]
-
+        if not nums:
+            return 0
+        
         #sodium_mya
-        i=0
-        while True:
-            try:
-                if nums[i] not in unique:
-                    unique.append(nums[i])
-                    i+=1
-                else:
-                    nums.pop(i)
-            except IndexError:
-                break
-
-        uniqueint=len(unique)
-        return uniqueint
+        k=1
+        for i in range(1,len(nums)):
+            if nums[i]!=nums[i-1]:
+                nums[k]=nums[i]
+                k+=1
+        return k
