@@ -15,8 +15,6 @@ class Solution(object):
                     nums.pop(i)
             except IndexError:
                 break
-            
-        '''for l in repeated_index:
-            nums.pop(l-repeated_index.index(l))'''
+
         uniqueint=len(unique)
         return uniqueint
