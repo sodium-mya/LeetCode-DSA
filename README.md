@@ -32,6 +32,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0027-remove-element) |
 ## Trie
 |  |
 | ------- |
@@ -44,4 +45,5 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
