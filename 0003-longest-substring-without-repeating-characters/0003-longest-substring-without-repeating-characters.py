@@ -12,7 +12,6 @@ class Solution(object):
                 start=unique.index(i)+1
                 unique=unique[start:]
                 unique+=i
-                unique_stack.append(len(unique))
         unique_stack.append(len(unique))
         if not unique_stack:
             return len(s)
