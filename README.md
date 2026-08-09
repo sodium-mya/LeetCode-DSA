@@ -42,6 +42,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 | [0027-remove-element](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0066-plus-one) |
+| [1004-max-consecutive-ones-iii](https://github.com/sodium-mya/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Trie
 |  |
 | ------- |
@@ -65,10 +66,12 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0035-search-insert-position) |
+| [1004-max-consecutive-ones-iii](https://github.com/sodium-mya/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/sodium-mya/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,4 +80,8 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/sodium-mya/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
