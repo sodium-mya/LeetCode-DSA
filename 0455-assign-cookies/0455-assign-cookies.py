@@ -14,7 +14,7 @@ class Solution(object):
         while (i<len(g))and(j<len(s)):
             if s[j]>=g[i]:
                 cnt+=1
-                s.pop(j)
+                j+=1
                 i+=1
             else:
                 j+=1
