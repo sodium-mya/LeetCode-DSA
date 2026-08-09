@@ -8,9 +8,6 @@ class Solution(object):
         if not s or lenofs==1:
             return s
         result=''
-
-        #sodium_mya
-
         for i in range (lenofs):
             left, right = i,i
             while left>=0 and right <lenofs and s[left]==s[right]:
