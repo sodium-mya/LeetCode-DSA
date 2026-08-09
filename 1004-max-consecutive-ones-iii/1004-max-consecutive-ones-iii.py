@@ -5,12 +5,11 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        len_nums=len(nums)
         l=0
         r=0
         count=0
         max_len=0
-        while r<len_nums:
+        while r<len(nums):
             if nums[r]==0:
                 count+=1
             while count>k:
