@@ -19,11 +19,13 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 | [0009-palindrome-number](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0066-plus-one) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sodium-mya/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0013-roman-to-integer) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sodium-mya/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
 |  |
 | ------- |
@@ -45,6 +47,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 | [0035-search-insert-position](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0066-plus-one) |
 | [1004-max-consecutive-ones-iii](https://github.com/sodium-mya/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sodium-mya/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Trie
 |  |
 | ------- |
@@ -75,6 +78,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/sodium-mya/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sodium-mya/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,6 +91,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/sodium-mya/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sodium-mya/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Greedy
 |  |
 | ------- |
