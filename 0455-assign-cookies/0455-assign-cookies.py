@@ -5,7 +5,6 @@ class Solution(object):
         :type s: List[int]
         :rtype: int
         """
-        cnt=0
         s.sort()
         g.sort()
         flag=True
@@ -13,12 +12,11 @@ class Solution(object):
 
         while (i<len(g))and(j<len(s)):
             if s[j]>=g[i]:
-                cnt+=1
                 j+=1
                 i+=1
             else:
                 j+=1
-        return cnt   
+        return i   
             
             
 
