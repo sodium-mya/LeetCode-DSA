@@ -45,6 +45,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0455-assign-cookies](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0455-assign-cookies) |
 | [1004-max-consecutive-ones-iii](https://github.com/sodium-mya/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -85,6 +86,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 ## Manacher
 |  |
 | ------- |
@@ -107,4 +109,8 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0455-assign-cookies) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
