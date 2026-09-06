@@ -43,6 +43,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 | [0020-valid-parentheses](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0058-length-of-last-word) |
+| [0344-reverse-string](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0344-reverse-string) |
 ## Array
 |  |
 | ------- |
@@ -72,6 +73,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0344-reverse-string](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0455-assign-cookies) |
 ## String Matching
 |  |
