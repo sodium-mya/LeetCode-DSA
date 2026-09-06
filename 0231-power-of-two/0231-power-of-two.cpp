@@ -1,0 +1,9 @@
+class Solution {
+public:
+    bool isPowerOfTwo(int n) {
+        if (n==1 || n==2) return true;
+        else if (n==0) return false;
+        else if (n%2 ==0 && isPowerOfTwo(n/2)) return true;
+        else return false;
+    }
+};
