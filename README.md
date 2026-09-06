@@ -24,6 +24,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 | [0342-power-of-four](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sodium-mya/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sodium-mya/LeetCode-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/sodium-mya/LeetCode-DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
@@ -136,6 +137,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 | ------- |
 | [0231-power-of-two](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0342-power-of-four) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sodium-mya/LeetCode-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/sodium-mya/LeetCode-DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
