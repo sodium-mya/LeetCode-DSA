@@ -19,6 +19,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 | [0009-palindrome-number](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sodium-mya/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Hash Table
@@ -118,9 +119,14 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
