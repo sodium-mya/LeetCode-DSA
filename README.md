@@ -19,6 +19,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 | [0009-palindrome-number](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0066-plus-one) |
+| [0509-fibonacci-number](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sodium-mya/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Hash Table
 |  |
@@ -87,6 +88,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 ## Manacher
 |  |
 | ------- |
@@ -113,4 +115,12 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0053-maximum-subarray) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
