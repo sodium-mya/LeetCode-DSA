@@ -56,6 +56,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 | [0066-plus-one](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0455-assign-cookies) |
+| [0643-maximum-average-subarray-i](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/sodium-mya/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sodium-mya/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Trie
@@ -90,6 +91,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/sodium-mya/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sodium-mya/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Dynamic Programming
