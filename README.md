@@ -54,6 +54,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 | [0035-search-insert-position](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -99,6 +100,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 ## Manacher
 |  |
