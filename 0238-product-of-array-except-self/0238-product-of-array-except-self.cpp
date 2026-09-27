@@ -15,6 +15,8 @@ public:
         for (int i=0; i<n; i++){
             nums[i]= num1[i]*num2[i];
         }
+        num1.shrink_to_fit();
+        num2.shrink_to_fit();
         return nums;
     }
 };
