@@ -19,6 +19,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 | [0009-palindrome-number](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0342-power-of-four) |
@@ -59,6 +60,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 | [0066-plus-one](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0455-assign-cookies) |
@@ -86,6 +88,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 | [0042-trapping-rain-water](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0455-assign-cookies) |
