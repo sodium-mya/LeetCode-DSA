@@ -33,6 +33,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0041-first-missing-positive) |
+| [0229-majority-element-ii](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sodium-mya/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
 |  |
@@ -65,6 +66,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0455-assign-cookies) |
@@ -143,6 +145,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 | ------- |
 | [0015-3sum](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
@@ -179,4 +182,12 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
