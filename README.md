@@ -24,6 +24,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 | [0231-power-of-two](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [1185-day-of-the-week](https://github.com/sodium-mya/LeetCode-DSA/tree/master/1185-day-of-the-week) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sodium-mya/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -53,6 +54,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 | [0125-valid-palindrome](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0443-string-compression) |
 ## Array
 |  |
@@ -188,6 +190,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0415-add-strings) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/sodium-mya/LeetCode-DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Monotonic Stack
 |  |
