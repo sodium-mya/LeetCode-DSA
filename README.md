@@ -56,6 +56,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 | [0344-reverse-string](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0443-string-compression) |
+| [1446-consecutive-characters](https://github.com/sodium-mya/LeetCode-DSA/tree/master/1446-consecutive-characters) |
 ## Array
 |  |
 | ------- |
