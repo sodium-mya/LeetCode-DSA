@@ -53,6 +53,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 | [0125-valid-palindrome](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0443-string-compression) |
 ## Array
 |  |
 | ------- |
@@ -106,6 +107,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 | [0189-rotate-array](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0455-assign-cookies) |
 ## String Matching
 |  |
