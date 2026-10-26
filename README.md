@@ -86,6 +86,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 | [0643-maximum-average-subarray-i](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/sodium-mya/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sodium-mya/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1572-matrix-diagonal-sum](https://github.com/sodium-mya/LeetCode-DSA/tree/master/1572-matrix-diagonal-sum) |
 ## Trie
 |  |
 | ------- |
@@ -229,4 +230,8 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0089-gray-code) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/sodium-mya/LeetCode-DSA/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
