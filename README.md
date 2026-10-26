@@ -20,6 +20,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 | [0012-integer-to-roman](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0066-plus-one) |
+| [0089-gray-code](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0326-power-of-three) |
@@ -190,6 +191,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sodium-mya/LeetCode-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -223,4 +225,8 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0075-sort-colors) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
