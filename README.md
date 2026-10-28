@@ -37,6 +37,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0041-first-missing-positive) |
 | [0229-majority-element-ii](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sodium-mya/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -68,6 +69,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 | [0027-remove-element](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0053-maximum-subarray) |
@@ -233,5 +235,6 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0036-valid-sudoku) |
 | [1572-matrix-diagonal-sum](https://github.com/sodium-mya/LeetCode-DSA/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
