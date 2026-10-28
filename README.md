@@ -74,6 +74,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 | [0037-sudoku-solver](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0075-sort-colors) |
@@ -234,6 +235,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0089-gray-code) |
 ## Matrix
 |  |
@@ -245,6 +247,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
