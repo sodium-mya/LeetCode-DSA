@@ -52,6 +52,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 | [0013-roman-to-integer](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0125-valid-palindrome) |
@@ -144,6 +145,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -234,6 +236,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0089-gray-code) |
@@ -252,4 +255,8 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0037-sudoku-solver) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sodium-mya/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
