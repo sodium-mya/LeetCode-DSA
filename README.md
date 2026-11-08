@@ -30,6 +30,7 @@ My goal here is not just to collect solved problems, but to build a bulletproof 
 | [1185-day-of-the-week](https://github.com/sodium-mya/LeetCode-DSA/tree/master/1185-day-of-the-week) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sodium-mya/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sodium-mya/LeetCode-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2235-add-two-integers](https://github.com/sodium-mya/LeetCode-DSA/tree/master/2235-add-two-integers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/sodium-mya/LeetCode-DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
